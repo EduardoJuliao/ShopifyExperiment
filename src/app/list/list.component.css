@@ -1,0 +1,19 @@
+.list {
+  width: 400px;
+  background-color: RGBA(255, 255, 255, 0.05);
+  border: RGBA(46, 49, 49, 0.7) solid 1px;
+  border-radius: 2px;
+  height: 75vh;
+  overflow-y: auto;
+  padding: 1em;
+}
+
+.list-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.listItem{
+   margin: 1em;
+}
